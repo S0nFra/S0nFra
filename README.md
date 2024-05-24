@@ -1,4 +1,5 @@
 **Hi there! Welcome** 👋
+
 I am Francesco Sonnessa, a computer engineer passionate about artificial intelligence and robotics. I love creating projects and testing innovative technologies.
 
 Here are two of the projects I have been most passionate about:
